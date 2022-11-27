@@ -17,3 +17,7 @@ Step 1:
 - SSH to RPi and connect it to wifi
 - test motor library for RPi
 - find bluetooth library for RPi
+
+# Flutter Application 
+Step 1: 
+- download flutter and get it working
