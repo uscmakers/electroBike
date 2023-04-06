@@ -2,7 +2,7 @@
 
 # App Requirements
 Step 1:
-- setup Swift and run some example from interwebs
+- setup Flutter and run some example from interwebs
 - button with callback function
 - figure out how to interface with apple maps
 - figure out how to interface with bluetooth
