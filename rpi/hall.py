@@ -29,7 +29,7 @@ last_time = 0
 current_time = 0
 
 if __name__ == '__main__':
-    print("main entered")
+    print("main started")
     GPIO.setmode(GPIO.BCM)
     GPIO.setup(HALLPIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
     GPIO.add_event_detect(HALLPIN, GPIO.RISING, 
